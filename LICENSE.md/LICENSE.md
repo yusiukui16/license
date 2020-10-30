@@ -1,4 +1,4 @@
-*ALL RIGHT RESERVED YUSIUKUI(GitHub,KeyBase) COPYRIGHT (c)2020 YUSIUKUI*
+*ALL RIGHT RESERVED YUSIUKUI(GitHub,KeyBase) COPYRIGHT (C)2020 YUSIUKUI*
 
  "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
 "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
