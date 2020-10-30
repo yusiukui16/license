@@ -1,8 +1,13 @@
 *ALL RIGHT RESERVED YUSIUKUI(GitHub,KeyBase)*
-*COPYRIGHT 2020 YUSIUKUI*
+*COPYRIGHT (c)2020 YUSIUKUI*
+* All rights reserved.*
 "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
 "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
 "Program" shall mean a pack of file
 1.You cannot Reverse engineering to any file( execept for open-source program.)
 2.If program have been clearly said use which This LICENSE won't be effect on that program
 3.If it's different between program's license and this license ,please use license file on github.
+* Redistribution and use in binary or source(if Package have source) forms.
+* 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
