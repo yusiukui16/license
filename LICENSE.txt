@@ -17,3 +17,5 @@ Unless You explicitly state otherwise, any Contribution intentionally submitted 
 *The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 October 2020 version
+
+https://raw.githubusercontent.com/yusiukui/license/main/LICENSE.md/LICENSE.md
