@@ -45,7 +45,14 @@ Disclaimer of Warranty. Unless required by applicable law or
       appropriateness of using or redistributing the Work and assume any
       risks associated with Your exercise of permissions under this License.
 
+ This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
 
 *The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
    
 END OF TERMS AND CONDITIONS
+
+October 2020 version
