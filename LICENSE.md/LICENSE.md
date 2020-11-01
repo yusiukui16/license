@@ -6,7 +6,7 @@ START OF TERMS AND CONDITIONS
 
 "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
 
-"Program" shall mean a pack of file 
+"Program" shall mean a pack of file create by licensor
 
 *You cannot Reverse engineering any file( except for open-source program.) 
 
