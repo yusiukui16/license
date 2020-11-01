@@ -8,7 +8,7 @@
 
 *You cannot Reverse engineering any file( except for open-source program.) 
 
-*If program has been clearly said use which This LICENSE won't be the effect on that program 
+*If the program has been clearly said use which This LICENSE won't be the effect on that program 
 
 *If it's different between the program's license and this license, please use the license file on GitHub.
 
