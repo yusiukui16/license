@@ -78,3 +78,5 @@ Disclaimer of Warranty. Unless required by applicable law or
 *The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
    
 END OF TERMS AND CONDITIONS
+
+license file(github):https://raw.githubusercontent.com/yusiukui/license/main/LICENSE.md/LICENSE.md
