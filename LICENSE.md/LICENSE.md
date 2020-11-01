@@ -1,5 +1,7 @@
 *ALL RIGHT RESERVED YUSIUKUI(GitHub,KeyBase) COPYRIGHT (c)2020 YUSIUKUI*
 
+START OF TERMS AND CONDITIONS
+
  "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
 
 "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
@@ -23,7 +25,19 @@ Redistribution and use in binary or source(if Package has source) forms.
 Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
 Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+*Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the
+      Work, even if such Contributor
+      has been advised of the possibility of such damages.
+
 *The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-   END OF TERMS AND CONDITIONS
+   
+END OF TERMS AND CONDITIONS
 
 October 2020 version
+
