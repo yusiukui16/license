@@ -12,7 +12,7 @@ START OF TERMS AND CONDITIONS
 
 *If the program has been clearly said use which license.This LICENSE won't be the effect on that program 
 
-*If it's different between the program's license and this license, please use the license file on GitHub.
+*If it's different between the program's license and this license, please use the license file on GitHub.(except for special license)
 
 Redistribution and use in binary or source(if Package has source) forms.
 
